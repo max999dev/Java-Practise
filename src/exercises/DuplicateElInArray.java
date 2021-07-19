@@ -1,10 +1,5 @@
 package exercises;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
-
 public class DuplicateElInArray {
     // how to find the duplicate elements in an array
     public static void main(String[] args) {
@@ -15,7 +10,7 @@ public class DuplicateElInArray {
         for (int i = 0; i < prLanguages.length; i++) {
             for (int j = i + 1; j < prLanguages.length; j++) {
                 if (prLanguages[i].equals(prLanguages[j])) {
-                   // System.out.println("duplicate element is " + prLanguages[i]);
+                     System.out.println("duplicate element is " + prLanguages[i]);
                 }
             }
         }

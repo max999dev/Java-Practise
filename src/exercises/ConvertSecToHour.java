@@ -4,7 +4,7 @@ public class ConvertSecToHour {
     public static void main(String[] args) {
 
 
-        int seconds = 1286390;
+        int seconds = 86390;
         //how many seconds
         int remainingSeconds = seconds % 60;
         System.out.println(remainingSeconds);
