@@ -9,11 +9,12 @@ public class CheckIfTwoArraysIsEquals {
         int[] b = {1, 2, 3, 4, 7};
 
         System.out.println(Arrays.equals(a, b));
-        boolean status = true;
+        boolean status = false;
         for (int i = 0; i < a.length; i++) {
             if (a[i] == b[i]) {
                 status = true;
             }
         }
+        System.out.println(status);
     }
 };
