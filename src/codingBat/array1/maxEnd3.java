@@ -19,10 +19,6 @@ public class maxEnd3 {
             newArr[0] = nums[nums.length - 1];
             newArr[1] = nums[nums.length - 1];
             newArr[2] = nums[nums.length - 1];
-        }  else if (nums[0] < nums[nums.length - 1]) {
-        newArr[0] = nums[nums.length - 1];
-        newArr[1] = nums[nums.length - 1];
-        newArr[2] = nums[nums.length - 1];
     } else {
             newArr[0] = nums[nums.length - 1];
             newArr[1] = nums[nums.length - 1];
