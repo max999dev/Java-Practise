@@ -14,6 +14,11 @@ public class reverse3 {
         newArr[1] = nums[1];
         newArr[newArr.length - 1] = nums[0];
         return newArr;
+
+//        newArr[0] = nums[nums.length - 1];
+//        newArr[1] = nums[1];
+//        newArr[newArr.length - 1] = nums[0];
+
     }
 
 }
