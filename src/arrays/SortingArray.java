@@ -37,3 +37,10 @@ public class SortingArray {
         System.out.println(Arrays.toString(sorted));
     }
 }
+//    int[] numbers = {3,6,4,8,9,2};
+//    int [] sorted = new int [numbers.length];
+//        for(int i =0; i < numbers.length;i++){
+//        for(int j = i+1;j < numbers.length; j++){
+//        if(numbers[i] < numbers[j]){
+//        sorted[i] = numbers[i];
+//        }
