@@ -20,3 +20,15 @@ public class SecondSmallestEl {
         System.out.println(second);
     }
 }
+
+
+//  for (int i = 0; i < numbers.length; i++) {
+//        if (numbers[i] < smallest) {
+//        second = smallest;
+//        smallest = numbers[i];
+//
+//        }
+//        if (numbers[i] != smallest && numbers[i] > second) {
+//
+//        }
+//        }
