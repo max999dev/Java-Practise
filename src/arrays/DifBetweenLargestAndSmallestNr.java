@@ -25,3 +25,6 @@ public class DifBetweenLargestAndSmallestNr {
 
         }
     }
+// System.out.println(smallest);
+//         difference = largest - smallest;
+//         System.out.println("The difference between the largest and smallest number is " + difference);
