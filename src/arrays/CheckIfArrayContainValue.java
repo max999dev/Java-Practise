@@ -25,3 +25,10 @@ public class CheckIfArrayContainValue {
 
     }
 }
+//System.out.println("The element " + value + " Is located at index" + index);
+//        int b = 5;
+//        String a = "abc";
+//        for (int i = 0; i <= b; i++) {
+//        a += a;
+//        }
+//        System.out.println(a);
